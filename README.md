@@ -1,8 +1,8 @@
 # REC Login Portal
 
 ## Demo
+![17287954495997985964895578122048](https://github.com/user-attachments/assets/6dfbcfa8-08c8-4165-bc4e-10ac2e00064d)
 
-(https://ibb.co/ydC5c32)
 
 
 ## Project Overview
